@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Generated audio
+*.mp3
+*.wav
+
+# PDF input files
+*.pdf
+
+# Output folders
+output/
+outputs/
+
+# Windows
+Thumbs.db
+Desktop.ini
